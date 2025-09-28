@@ -12,6 +12,5 @@ A pool, sauna, 5 car garage, large living area
 ## Life goals: 
 Live Phat and Happy
 
-![](./img.jpg)
-
+|[](./img.jpg)
 
